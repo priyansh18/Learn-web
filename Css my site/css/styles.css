@@ -1,0 +1,32 @@
+body{
+	margin:0;
+}
+h1{
+	margin-top:0;
+}
+.top-container{
+	background-color: #e8ecd6;
+	padding: 20px;
+	height:200px;
+	width:200px;
+	border:solid;
+	border-width: 10px;
+}
+.middle-container{
+	background-color: blue;
+	height:200px;
+	width:200px;
+	border:solid;
+	border-width: 20px;
+	margin-left:260px
+}
+
+	
+.bottom-container{
+	background-color: red;
+	height:200px;
+	width:200px;
+	border:solid;
+	border-width: 10px;
+	margin-left:500px
+}
